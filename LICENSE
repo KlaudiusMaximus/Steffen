@@ -1,0 +1,84 @@
+Nutzungsbedingungen für Steffen
+================================
+
+Stand: 02.10.2026
+
+Copyright (c) 2026 KonnieMarketing. Alle Rechte vorbehalten.
+
+
+1. Gegenstand
+
+Diese Bedingungen gelten für die in diesem Repository veröffentlichten
+Programmpakete von „Steffen“ (Desktop-App, Server „steffen-server“ und
+Kommandozeilenprogramm „steffen“) sowie die zugehörigen Update-Dateien
+(zusammen: „die Software“). Der Quellcode ist nicht Teil dieser Veröffentlichung.
+
+
+2. Was erlaubt ist
+
+Sie dürfen die Software unentgeltlich herunterladen, installieren und nutzen –
+auf beliebig vielen eigenen Geräten und gemeinsam mit den Personen, die Sie in
+Ihren Steffen-Server einladen (z. B. Ihr Team). Dieses Recht ist einfach (nicht
+exklusiv), nicht übertragbar und nicht unterlizenzierbar.
+
+Sie dürfen auf die Release-Seite dieses Repositorys verlinken, damit andere die
+Software dort selbst herunterladen.
+
+
+3. Was nicht erlaubt ist
+
+Ohne schriftliche Zustimmung des Rechteinhabers ist es nicht erlaubt,
+
+  a) die Software oder Teile davon an Dritte weiterzugeben, zu veröffentlichen
+     oder auf anderen Seiten zum Download anzubieten,
+  b) die Software zu verkaufen, zu vermieten oder gegen Entgelt bereitzustellen,
+     auch nicht als Dienst für Dritte, die nicht zu Ihrem Team gehören,
+  c) die Software zu verändern, zu dekompilieren oder zurückzuentwickeln, soweit
+     dies nicht gesetzlich ausdrücklich erlaubt ist (§§ 69d, 69e UrhG),
+  d) Urheberrechtsvermerke, Lizenzhinweise oder Markenbezeichnungen zu entfernen
+     oder zu verändern.
+
+
+4. Bestandteile von Dritten
+
+Die Software enthält Open-Source-Komponenten anderer Urheber (u. a. Tauri,
+SQLite, SolidJS und zahlreiche Rust-Bibliotheken). Für diese Komponenten gelten
+ausschließlich deren eigene Lizenzen; sie werden durch diese Bedingungen nicht
+eingeschränkt. Die Lizenztexte stehen in der Datei THIRD-PARTY-LICENSES, die
+jedem Release beiliegt.
+
+
+5. Ihre Daten
+
+Steffen speichert alle Inhalte auf Ihren eigenen Geräten bzw. Ihrem eigenen
+Server. Der Rechteinhaber hat darauf keinen Zugriff und erhält keine
+Nutzungsdaten. Zur Suche nach Updates ruft die App die Release-Seite dieses
+Repositorys auf GitHub ab; das lässt sich in den Einstellungen abschalten.
+
+
+6. Gewährleistung und Haftung
+
+Die Software wird unentgeltlich und ohne Zusicherung bestimmter Eigenschaften
+bereitgestellt. Für Mängel wird nur gehaftet, wenn sie arglistig verschwiegen
+wurden.
+
+Der Rechteinhaber haftet nur für Vorsatz und grobe Fahrlässigkeit. Unberührt
+bleiben die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder
+der Gesundheit sowie die Haftung nach dem Produkthaftungsgesetz.
+
+Bitte sichern Sie Ihre Daten regelmäßig. Steffen bietet dafür eingebaute
+Backups an.
+
+
+7. Ende der Nutzungsberechtigung
+
+Bei einem Verstoß gegen diese Bedingungen erlischt das Nutzungsrecht
+automatisch. Die Software ist dann zu löschen.
+
+
+8. Schlussbestimmungen
+
+Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung
+unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+Kontakt: https://KonnieMarketing.de/Impressum
